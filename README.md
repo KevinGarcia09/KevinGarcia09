@@ -5,10 +5,6 @@
 </div>
 <h1 align="center"><b>Hi , I'm Kevin Alexander García Mercado</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 <br>
 
 <h3 align="center"><strong>Estudiante de Ingeniería en Sistemas</strong> · Diseñador Jr · Front-end en formación</h3>
@@ -17,10 +13,10 @@
 <p align="center">
   <a href="mailto:kevingarciam8003@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Contacto-Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  
  
   <a href="https://github.com/KevinGarcia09" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-tu--usuario-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-KevinGarcia09-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
