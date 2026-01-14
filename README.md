@@ -16,7 +16,7 @@
 
 <!-- Tagline -->
 <h3 align="center">
-  <strong>Estudiante de Ingeniería en Sistemas</strong> · Diseñador Jr · Front-end en formación
+  <strong>Estudiante de Ingeniería en Sistemas</strong>  formación
 </h3>
 
 <!-- CTAs centrados -->
