@@ -46,7 +46,7 @@
 ---
 
 ## 🧪 Experiencia (resumen)
-**Soporte a plataformas virtuales (6 meses).**  
+  
 
 
 ---
